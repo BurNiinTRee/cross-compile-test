@@ -1,0 +1,1 @@
+option('greeting', type: 'string', value: 'Hello', description: 'The greeting')
